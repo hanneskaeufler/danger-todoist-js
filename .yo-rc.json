@@ -1,0 +1,11 @@
+{
+  "generator-danger-plugin": {
+    "promptValues": {
+      "authorName": "Hannes Käufler",
+      "authorEmail": "hannes.kaeufler@gmail.com",
+      "githubUsername": "hanneskaeufler",
+      "useYarn": true,
+      "useTypeScript": false
+    }
+  }
+}

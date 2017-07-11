@@ -1,0 +1,3 @@
+import dangerTodoistJs from './'
+
+dangerTodoistJs()
